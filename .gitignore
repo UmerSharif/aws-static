@@ -1,0 +1,10 @@
+# VIM
+*.swo
+*.swp
+
+# Terraform
+.terraform
+terraform.tfstate*
+terraform.tfvars*
+.DS_Store
+*.key
